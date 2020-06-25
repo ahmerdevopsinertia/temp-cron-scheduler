@@ -1254,3 +1254,4 @@ Hello World
 New Config
 
 This is new configuration at 25-06-2020 7:53 am
+New config at 1.00 
