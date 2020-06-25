@@ -1263,5 +1263,3 @@ asdfsdf1111
 This new configuration at 2.29
 This config should add
 This is config recv on 4.36 PM pst
-=======
->>>>>>> parent of f6de28d... File versioned at 23-06-2020-11:33:01
