@@ -1128,10 +1128,6 @@ Host: 11.11.11.11
 Time:2020-06-23 10:32:01
 ################## END ##########
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 90cf0b3bbf6a78179d332c9159c5774cc8718f05
 ######### ADDITION OF HOST ######
 Host: 11.11.11.11
 Time:2020-06-23 10:33:01
@@ -1142,9 +1138,6 @@ Host: 11.11.11.11
 Time:2020-06-23 10:34:01
 ################## END ##########
 
-<<<<<<< HEAD
-commit after reset 
-=======
 ######### ADDITION OF HOST ######
 Host: 11.11.11.11
 Time:2020-06-23 10:35:01
@@ -1269,4 +1262,4 @@ asdfsdf1111
 This new configuration at 2.29
 This config should add
 This is config recv on 4.36 PM pst
->>>>>>> 90cf0b3bbf6a78179d332c9159c5774cc8718f05
+
